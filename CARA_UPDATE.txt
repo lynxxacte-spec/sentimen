@@ -1,0 +1,7 @@
+CARA UPDATE KE GITHUB / STREAMLIT
+1. Buka repository GitHub-mu > Add file > Upload files.
+2. Upload: app.py (ganti yang lama) dan klasifikasi.py (BARU, wajib ada).
+   model_naive_bayes_blibli_final.pkl, hasil_penelitian.json, requirements.txt tidak berubah (boleh diunggah ulang, isinya sama).
+3. Commit changes. Streamlit akan memuat ulang otomatis dalam 1-2 menit (atau klik Reboot app).
+4. Uji di tab Analisis Komentar: lihat kolom "Dasar Keputusan".
+Jalankan lokal: pip install -r requirements.txt, lalu streamlit run app.py

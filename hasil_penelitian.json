@@ -1,0 +1,175 @@
+{
+ "total_ulasan": 1060,
+ "berlabel_manual": 600,
+ "prediksi_model": 460,
+ "distribusi": {
+  "Positif": 510,
+  "Netral": 166,
+  "Negatif": 384
+ },
+ "aspek": [
+  {
+   "aspek": "UI/UX",
+   "jumlah": 67,
+   "positif": 47.76,
+   "netral": 16.42,
+   "negatif": 35.82
+  },
+  {
+   "aspek": "Performa Aplikasi",
+   "jumlah": 293,
+   "positif": 33.79,
+   "netral": 14.33,
+   "negatif": 51.88
+  },
+  {
+   "aspek": "Fitur Pembayaran",
+   "jumlah": 113,
+   "positif": 16.81,
+   "netral": 16.81,
+   "negatif": 66.37
+  },
+  {
+   "aspek": "Customer Service",
+   "jumlah": 109,
+   "positif": 11.93,
+   "netral": 12.84,
+   "negatif": 75.23
+  },
+  {
+   "aspek": "Pengalaman Pengiriman",
+   "jumlah": 81,
+   "positif": 16.05,
+   "netral": 9.88,
+   "negatif": 74.07
+  }
+ ],
+ "kata": {
+  "Positif": [
+   [
+    "good",
+    95
+   ],
+   [
+    "app",
+    54
+   ],
+   [
+    "easy",
+    54
+   ],
+   [
+    "blibli",
+    53
+   ],
+   [
+    "use",
+    38
+   ],
+   [
+    "great",
+    32
+   ],
+   [
+    "mantap",
+    32
+   ],
+   [
+    "apps",
+    31
+   ],
+   [
+    "best",
+    28
+   ],
+   [
+    "ok",
+    26
+   ]
+  ],
+  "Netral": [
+   [
+    "app",
+    15
+   ],
+   [
+    "yg",
+    13
+   ],
+   [
+    "blibli",
+    12
+   ],
+   [
+    "ga",
+    10
+   ],
+   [
+    "aplikasi",
+    10
+   ],
+   [
+    "nice",
+    10
+   ],
+   [
+    "not",
+    9
+   ],
+   [
+    "promo",
+    8
+   ],
+   [
+    "user",
+    8
+   ],
+   [
+    "product",
+    7
+   ]
+  ],
+  "Negatif": [
+   [
+    "tidak",
+    175
+   ],
+   [
+    "blibli",
+    141
+   ],
+   [
+    "barang",
+    75
+   ],
+   [
+    "gak",
+    74
+   ],
+   [
+    "aplikasi",
+    69
+   ],
+   [
+    "ga",
+    68
+   ],
+   [
+    "yg",
+    61
+   ],
+   [
+    "belanja",
+    42
+   ],
+   [
+    "tapi",
+    42
+   ],
+   [
+    "aja",
+    41
+   ]
+  ]
+ }
+}
